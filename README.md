@@ -1,10 +1,20 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Deshan+Jeewantha;Full-Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Deshan+Jeewantha;Full-Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;AWS+Cloud+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=deshankodithuwakku&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/deshankodithuwakku?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers" />
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge" alt="Focus" />
   </p>
+
+</div>
+
+<div align="center">
+
+## 📑 Table of Contents
+
+[About Me](#-about-me) • [Projects](#-featured-projects) • [Tech Stack](#️-tech-stack) • [Learning](#-currently-learning) • [Statistics](#-github-statistics) • [Experience](#-experience) • [Education](#-education) • [Certifications](#-certifications--achievements) • [Contact](#-connect-with-me)
 
 </div>
 
@@ -28,11 +38,13 @@ expertise in DevOps practices and Cloud Architecture (AWS) to build secure, high
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🌟 LTBio – Learning Management System
+<sub>💡 Click on project names to view details • 🟢 = Live in Production</sub>
+
+### 🌟 LTBio – Learning Management System 🟢
 **Dec 2025 – Present** | Laravel • React.js • MySQL • RESTful APIs
 
 - 🏗️ Designed **decoupled architecture** with React frontend and Laravel backend
@@ -84,13 +96,23 @@ expertise in DevOps practices and Cloud Architecture (AWS) to build secure, high
 
 ---
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 📈 Language Usage Across Repositories
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankodithuwakku&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Language Stats" />
+
+### 💪 Skill Levels
+
+```text
+Backend Development  ████████████████████░   95%
+Frontend Development ███████████████████░░   90%
+Cloud & DevOps       ███████████████░░░░░   75%
+Database Management  ████████████████████░   95%
+API Development      ███████████████████░░   90%
+```
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -131,7 +153,7 @@ expertise in DevOps practices and Cloud Architecture (AWS) to build secure, high
 
 ---
 
-## � Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
@@ -154,7 +176,7 @@ const currentFocus = {
 
 ---
 
-## �📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -177,7 +199,7 @@ const currentFocus = {
 
 ---
 
-## � Experience
+## 💼 Work Experience
 
 <div align="center">
 
@@ -249,15 +271,24 @@ const currentFocus = {
 
 - 🔄 **DevOps & Cloud Computing** - CI/CD Pipelines, Docker, AWS Infrastructure
 - 💻 **Full Stack Development** - MERN Stack & Modern PHP Frameworks
-- 🌐 **Language Skills** - German (A1 Level - Currently Learning)
 
-### 🗣️ Languages
 
-| Language | Proficiency |
-|----------|-------------|
-| **English** | Professional Working Proficiency |
-| **Sinhala** | Native Proficiency |
-| **German** | Basic (A1 Level - Learning) |
+
+### 🎯 Professional Skills
+
+```yaml
+Core Competencies:
+  - Problem Solving & Algorithm Design
+  - Agile/Scrum Collaboration
+  - Code Review & Best Practices
+  - Technical Documentation
+  
+Soft Skills:
+  - Client Requirement Analysis
+  - Cross-functional Team Collaboration
+  - Adaptability to New Tech Stacks
+  - Time Management & Delivery
+```
 
 </div>
 
@@ -281,14 +312,36 @@ const currentFocus = {
 ### 📱 Phone
 **+94 76 107 0446**
 
+---
+
+### 💬 Let's Collaborate!
+
+I'm always interested in:
+- 🚀 Innovative full-stack projects
+- ☁️ Cloud architecture & DevOps solutions  
+- 🌍 International collaborations
+- 📈 Open source contributions
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ⭐ If you like my work, feel free to star my repositories!
-  
-  Made with ❤️ by Deshan Jeewantha
-  
-</div>
+
+### ⭐ Show Your Support
+
+If you like my work, consider giving a ⭐ to my repositories!  
+Feel free to explore my projects and reach out for collaborations.
+
+---
+
+**📊 Quick Stats**
+
+![Years of Experience](https://img.shields.io/badge/Experience-6%2B%20Years-success?style=flat-square)
+![Projects Completed](https://img.shields.io/badge/Projects-15%2B-blue?style=flat-square)
+![International Clients](https://img.shields.io/badge/Clients-Germany%20%7C%20Australia-orange?style=flat-square)
+![Active Learning](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=flat-square)
+
+
+
+
