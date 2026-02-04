@@ -12,13 +12,18 @@
 
 ## 💼 About Me
 
+```yaml
+📍 Location: Colombo, Sri Lanka
+💼 Role: Software Engineer | Full-Stack & Cloud Solutions
+🎓 Education: BSc (Hons) IT @ SLIIT (Expected 2026)
+🔧 Specialization: MERN Stack, Laravel & AWS Cloud Architecture
+🌟 Focus: Building scalable web applications & cloud solutions
+⚡ Current: Expanding DevOps & Cloud Architecture expertise
 ```
-📍 Based in Sri Lanka
-🚀 Passionate Full-Stack Developer
-💡 Crafting elegant solutions with clean code
-🎯 Dedicated to continuous learning & innovation
-🏆 Building scalable applications
-```
+
+**Motivated Full Stack Developer** with hands-on experience in MERN stack and PHP frameworks. 
+Proven ability to develop scalable web applications and optimize backend logic. Currently expanding 
+expertise in DevOps practices and Cloud Architecture (AWS) to build secure, high-performance deployment pipelines.
 
 ---
 
@@ -26,11 +31,53 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🎯 Project Name** | Brief description of your project and what it does | ![Tech](https://img.shields.io/badge/Tech-Stack-blue) | [![Repo](https://img.shields.io/badge/Repo-View-green)](https://github.com/deshankodithuwakku/project) |
-| **💻 Project Name** | Another amazing project description | ![Tech](https://img.shields.io/badge/Tech-Stack-orange) | [![Repo](https://img.shields.io/badge/Repo-View-green)](https://github.com/deshankodithuwakku/project) |
-| **📱 Project Name** | Mobile/Web application description | ![Tech](https://img.shields.io/badge/Tech-Stack-red) | [![Repo](https://img.shields.io/badge/Repo-View-green)](https://github.com/deshankodithuwakku/project) |
+### 🌟 LTBio – Learning Management System
+**Dec 2025 – Present** | Laravel • React.js • MySQL • RESTful APIs
+
+- 🏗️ Designed **decoupled architecture** with React frontend and Laravel backend
+- 🔐 Engineered **secure API endpoints** with strict data validation
+- 🚀 Managed **production deployment** on Hostinger with seamless integration
+- 📊 Handles student registration and exam workflows efficiently
+
+---
+
+### 🎉 Partylab - Event Management System
+**Dec 2024 – Feb 2025** | WordPress • PHP • PayHere API • MySQL
+
+- 📅 Built dynamic booking platform with portfolio browsing
+- 💳 Integrated **PayHere payment gateway** and SMS automation
+- 📧 Automated invoicing and instant booking confirmations
+- 🎯 Streamlined client booking process end-to-end
+
+---
+
+### 🛒 Mikida – E-commerce Platform (Australia)
+**Dec 2024 – Jan 2025** | WordPress • WooCommerce • Stripe API • PHP
+
+- 🌏 Developed cross-border e-commerce for Australian market
+- 💰 Integrated **Stripe API** for secure international transactions
+- ⚡ Optimized server configurations for high traffic performance
+- 📦 Managed complete product inventory and deployment
+
+---
+
+### 🎯 Event Management System (MERN Stack)
+**Jun 2024 – Aug 2024** | MongoDB • Express.js • React.js • Node.js
+
+- 🔄 Full-stack development with **MERN stack architecture**
+- 🌐 Implemented **RESTful APIs** for real-time data management
+- 📡 Created scalable APIs for complex event data structures
+- 💻 Responsive UI with modern React components
+
+---
+
+### 🇩🇪 Sri Lanka Laden – E-commerce (Germany)
+**Feb 2020 – Jul 2023** | WordPress • WooCommerce • PHP
+
+- 🌍 Delivered customized e-commerce for **German international client**
+- 📂 Complex product categorization with recipe integration
+- 🔧 **3+ years** of continuous maintenance and feature enhancements
+- 🛡️ Long-term lifecycle management with security updates
 
 </div>
 
@@ -45,22 +92,39 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankodithuwakku&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Language Stats" />
 
 ### Languages
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Database
+### Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+
+### Frontend Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Tools
-![Travis CI](https://img.shields.io/badge/TravisCI-%23050505.svg?style=for-the-badge&logo=travis&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### CMS & Tools
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -72,17 +136,18 @@
 
 ```javascript
 const currentFocus = {
-    frameworks: ["React", "Node.js", "Express"],
-    technologies: ["Docker", "Kubernetes", "AWS"],
-    learning: ["System Design", "Microservices", "DevOps"],
-    goals: "Building scalable cloud-native applications"
+    cloud: ["AWS Cloud Architecture", "EC2", "S3", "Lambda"],
+    devOps: ["CI/CD Pipelines", "Docker Containerization", "GitHub Actions"],
+    languages: ["German (A1 Level)"],
+    certifications: ["AWS Cloud Practitioner", "DevOps Fundamentals"],
+    goals: "Building secure, high-performance cloud deployment pipelines"
 };
 ```
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -115,19 +180,42 @@ const currentFocus = {
 
 <div align="center">
 
-```yaml
-🏢 Company/Position:
-   Role: Full-Stack Developer / Software Engineer
-   Duration: Month Year - Present
-   Highlights:
-     - Developed and maintained scalable web applications
-     - Collaborated with cross-functional teams
-     - Implemented best practices and code reviews
+### 💼 Software Engineer Intern
+**GateOneSoft** | Colombo, Sri Lanka  
+**Oct 2024 – Apr 2025**
 
-🎓 Internship/Projects:
-   Role: Developer Intern / Freelancer
-   Duration: Month Year - Month Year
-   Focus: Web Development, Database Management
+```yaml
+🔧 Material Management System:
+   - Developed inventory tracking system using Laravel & MySQL
+   - Implemented bulk upload capabilities
+   - Built multi-level approval workflows for material handling
+
+👥 HR & Payroll System:
+   - Contributed to full-stack HR solution using CodeIgniter
+   - Implemented employee asset tracking module
+   - Developed leave management and shift scheduling features
+
+🌐 Web Development:
+   - Designed and deployed responsive WordPress websites
+   - Example: cneeds.lk - Full production deployment
+```
+
+---
+
+### 💻 Freelance Full-Stack Developer
+**Self-Employed** | International Clients  
+**Feb 2020 – Present**
+
+```yaml
+🌍 International Projects:
+   - Delivered solutions for clients in Germany, Australia
+   - Long-term client relationships (3+ years)
+   - E-commerce, CMS, and custom web applications
+
+💡 Key Achievements:
+   - Payment gateway integrations (Stripe, PayHere)
+   - Cross-border e-commerce solutions
+   - Multi-language support and localization
 ```
 
 </div>
@@ -140,21 +228,35 @@ const currentFocus = {
 
 | Institution | Degree | Field | Year |
 |-------------|--------|-------|------|
-| **🏫 University Name** | Bachelor's Degree | Computer Science / Software Engineering | 2020 - 2024 |
-| **🏫 College/School** | Advanced Level | Physical Science / Mathematics | 2018 - 2020 |
+| **🏫 Sri Lanka Institute of Information Technology (SLIIT)** | BSc (Hons) | Information Technology | 2022 - 2026 (Expected) |
+| **🏫 Sri Lanka Institute of Information Technology (SLIIT)** | Higher National Diploma | Information Technology | 2022 - 2024 |
 
 </div>
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
-- 📜 **Certification Name** - Issuing Organization (Year)
-- 📜 **AWS Certified Developer** - Amazon Web Services (2025)
-- 📜 **Java Programming** - Oracle (2024)
-- 📜 **Web Development Bootcamp** - Platform Name (2023)
+### 🎖️ Official Certifications
+
+- 🏆 **AWS Academy Graduate** - Cloud Web Application Builder (Training Badge)
+- ☁️ **AWS Cloud Practitioner Essentials** - Self-Study (Covering core cloud concepts)
+
+### 📚 Continuous Learning
+
+- 🔄 **DevOps & Cloud Computing** - CI/CD Pipelines, Docker, AWS Infrastructure
+- 💻 **Full Stack Development** - MERN Stack & Modern PHP Frameworks
+- 🌐 **Language Skills** - German (A1 Level - Currently Learning)
+
+### 🗣️ Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| **English** | Professional Working Proficiency |
+| **Sinhala** | Native Proficiency |
+| **German** | Basic (A1 Level - Learning) |
 
 </div>
 
@@ -164,13 +266,19 @@ const currentFocus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deshankodithuwakku)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deshankodithuwakku)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deshankodithuwakku01@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B94_76_107_0446-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94761070446)
+
+### 📍 Location
+**Colombo, Sri Lanka**
 
 ### 📧 Email
 **deshankodithuwakku01@gmail.com**
+
+### 📱 Phone
+**+94 76 107 0446**
 
 </div>
 
