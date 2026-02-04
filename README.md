@@ -99,12 +99,20 @@ expertise in DevOps practices and Cloud Architecture (AWS) to build secure, high
 ## 🛠️ Tech Stack
 
 <div align="center">
+
 ### 📈 Language Usage Across Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankodithuwakku&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=&hide=html,css&card_width=500" alt="Language Stats" />
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankodithuwakku&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&cache_seconds=1800"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshankodithuwakku&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&cache_seconds=1800" alt="Language Stats" />
+</picture>
 
-<sub>📊 Updates automatically based on repository activity</sub>
-###  Skill Levels
+<sub>📊 Updates every 30 minutes based on repository activity</sub>
+
+### 💪 Skill Levels
 
 ```text
 Backend Development  ████████████████████░   95%
